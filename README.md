@@ -1,1 +1,0 @@
-# Miami-Florida-The-Best-Location-for-a-Vacation
