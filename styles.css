@@ -1,0 +1,23 @@
+p {
+    text-align:center;
+    color: red;
+    font-size: 20px;
+}
+
+h1 {
+    text-align:center;
+    color: #000cff;
+}
+
+html {
+    background-color: black;
+}
+
+h2 {
+    color: #00ddff;
+    text-align:center;
+}
+
+ul {
+    color: white;
+}
